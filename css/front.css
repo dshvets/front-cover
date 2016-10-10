@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     font-family: 'Open Sans' ,Helvetica,Arial,sans-serif;
+=======
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+>>>>>>> master
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute; 
     top: 0;
@@ -29,11 +33,16 @@ h1 {
     font-weight: bold;
     letter-spacing: 0.1em;
     font-size: 4em;
+<<<<<<< HEAD
+=======
+    font-family: 'Open Sans';
+>>>>>>> master
     margin: -10px 0;
 }
 h3 {
     color: white;
     padding-bottom: 20px;
+    font-weight: thin;
 }
 .content {
     padding-top: 100px;
